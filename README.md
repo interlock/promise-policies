@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/interlock/promise-policies.svg?branch=master)](https://travis-ci.org/interlock/promise-policies)
+
 ### Policy
 
 A promise based ACL framework.
