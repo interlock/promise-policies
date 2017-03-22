@@ -1,13 +1,20 @@
 {
-  "name": "node-policy",
+  "name": "promise-policies",
   "version": "1.0.0",
   "description": "A promise based ACL policy framework",
-  "main": "lib/policy.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "./node_modules/.bin/nyc ./node_modules/.bin/mocha "
   },
+  "engines": {
+    "node": ">= 6.0.0"
+  },
   "author": "James Sapara",
   "license": "MIT",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/interlock/promise-policies.git"
+  },
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0",

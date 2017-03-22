@@ -1,9 +1,9 @@
-const Policy = require('../lib/policy');
+const Policy = require('../lib');
 const expect = require('chai').expect;
 
 const resolver = require('../lib/resolver');
 
-const basePolicy = Policy.Policy.createDefaultPolicy(['read', 'create', 'delete']);
+const basePolicy = Policy.createDefaultPolicy(['read', 'create', 'delete']);
 
 class testPolicy extends basePolicy {
   static read(subject, context) {
