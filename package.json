@@ -1,0 +1,19 @@
+{
+  "name": "node-policy",
+  "version": "1.0.0",
+  "description": "A promise based ACL policy framework",
+  "main": "lib/policy.js",
+  "scripts": {
+    "test": "./node_modules/.bin/nyc ./node_modules/.bin/mocha "
+  },
+  "author": "James Sapara",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "nyc": "^10.1.2"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
+}
