@@ -67,16 +67,11 @@ class UserPolicy extends DefaultPolicy {
   }
 }
 ```
- 
+
 ### Default Actions
  - create
  - read
  - update
  - delete
- 
-### TODO
- - support scope resolving
-    - Query -> Query builder pre-loaded with filters on user
-    - filterCreate -> list of fields that can be submitted
-    - filterUpdate -> list of fields that can be updated
+
  
