@@ -2,6 +2,8 @@
 
 ### Policy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/interlock/promise-policies.svg)](https://greenkeeper.io/)
+
 A promise based ACL framework.
 
 ### Basics, sync policies
