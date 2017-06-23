@@ -1,6 +1,6 @@
 {
   "name": "promise-policies",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A promise based ACL policy framework",
   "main": "lib/index.js",
   "scripts": {
