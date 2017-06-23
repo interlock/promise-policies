@@ -80,6 +80,8 @@ describe("resolver", function() {
       expect(code).to.be.undefined;
     }).catch((err) => {
       expect(err.message).to.eq('policy does not define action');
+      expect(err.action).to.eq('update');
+      expect(err.toString()).to.eq('PolicyResolverError: policy does not define action [action=update]')
     });
   })
 });
