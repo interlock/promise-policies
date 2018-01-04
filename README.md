@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/interlock/promise-policies.svg?branch=master)](https://travis-ci.org/interlock/promise-policies)
+[![Package Quality](http://npm.packagequality.com/badge/promise-policies.png)](http://packagequality.com/#?package=promise-policies)
 
 ### Policy
 
