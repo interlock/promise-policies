@@ -1,7 +1,6 @@
 [![Build Status](https://travis-ci.org/interlock/promise-policies.svg?branch=master)](https://travis-ci.org/interlock/promise-policies)
 [![Dependency Status](https://david-dm.org/interlock/promise-policies.svg)](https://david-dm.org/interlock/promise-policies)
 [![Dev Dependency Status](https://david-dm.org/interlock/promise-policies/dev-status.svg)](https://david-dm.org/interlock/promise-policies/dev-status)
-[![Package Quality](http://npm.packagequality.com/shield/promise-policies.svg)](http://packagequality.com/#?package=promise-policies)
 
 ### Policy
 
