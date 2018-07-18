@@ -5,6 +5,7 @@
 ### Policy
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/interlock/promise-policies.svg)](https://greenkeeper.io/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Finterlock%2Fpromise-policies.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Finterlock%2Fpromise-policies?ref=badge_shield)
 
 A promise based ACL framework.
 
@@ -79,3 +80,7 @@ class UserPolicy extends DefaultPolicy {
  - delete
 
  
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Finterlock%2Fpromise-policies.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Finterlock%2Fpromise-policies?ref=badge_large)
